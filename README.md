@@ -2,7 +2,7 @@
 
 ![Followers](https://img.shields.io/github/followers/NishiGaba?style=flat) ![Stars](https://img.shields.io/github/stars/NishiGaba?style=flat)
 
-I am a passionate Full-Stack Developer with a knack for solving complex problems through innovative and efficient solutions. With over 5 years of professional experience, I’ve honed my skills across service-based and product-based companies, developing scalable applications and enhancing user experiences.
+I am a passionate Full-Stack Developer with a knack for solving complex problems through innovative and efficient solutions. With over 6 years of professional experience, I’ve honed my skills across service-based and product-based companies, developing scalable applications and enhancing user experiences.
 
 Beyond work, I enjoy exploring creative pursuits, such as designing logos and cartoons using HTML and CSS on CodePen, blending my technical expertise with artistic flair. 
 
